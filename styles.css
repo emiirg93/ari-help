@@ -49,8 +49,13 @@ thead th {
 }
 
 
+<<<<<<< HEAD
 si le pongo display block para darle el scroll horizontal la cabecera deja de ser estatica :(
 .table {
+=======
+/** si le pongo display block para darle el scroll horizontal la cabecera deja de ser estatica :( **/
+/* .table {
+>>>>>>> c3ad7832f96e414945e6ab318e2033663825dd11
   display: block;
   overflow-x: auto;
   white-space: nowrap;
